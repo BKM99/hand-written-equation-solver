@@ -1,3 +1,5 @@
+![plot](images/example.png)
+
 # Hand Written Equation Solver
 Used Django, React.js, and Tensorflow to build a REST API to solve hand written equations.
 
